@@ -1,0 +1,19 @@
+name: bernal_pavs_2022
+channels:
+  - pytorch
+  - anaconda
+  - defaults
+  - conda-forge
+dependencies:
+  - pip:
+    - torch==1.10.2
+    - torchvision==0.11.3
+    - --find-links https://download.pytorch.org/whl/torch_stable.html
+    - librosa
+    - scikit-image
+    - pandas
+    - numba==0.48
+    - opencv-python
+    - matplotlib
+    - tqdm
+    - seaborn
