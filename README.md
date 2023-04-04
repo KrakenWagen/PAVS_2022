@@ -2,7 +2,7 @@
 
 - This repo contains the main code used in the master thesis [_Audio-visual saliency prediction for 360◦ video via deep learning_](https://zaguan.unizar.es/record/120377?ln=en) by Félix Bernal Sierra.
 
-![diagram](https://github.com/KrakenWagen/PAVS_2022/blob/master/figs/architecture.png)
+![diagram](https://github.com/KrakenWagen/PAVS_2022/blob/main/figs/architecture.png)
 
 ## Abstract
 
